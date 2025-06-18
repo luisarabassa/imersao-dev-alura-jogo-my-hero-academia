@@ -25,5 +25,6 @@ Este é um mini jogo interativo inspirado no universo de **My Hero Academia**, c
 ## 🚀 Como rodar o projeto
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/luisarabassa/imersao-dev-alura-jogo-my-hero-academia.git
