@@ -11,9 +11,9 @@ Este é um mini jogo interativo inspirado no universo de **My Hero Academia**, c
 
 ## 🎯 Tecnologias utilizadas
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla JS)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## 🧠 Funcionalidades
 
